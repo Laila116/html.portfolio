@@ -1,9 +1,60 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.10">
   <diagram name="Page-1" id="Om4fkbPBN-Tum1DRu9Pf">
-    <mxGraphModel>
+    <mxGraphModel dx="1024" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_pLobRL5hJHsWE4UGe1Z-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;" edge="1" parent="1" source="_pLobRL5hJHsWE4UGe1Z-1" target="_pLobRL5hJHsWE4UGe1Z-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_pLobRL5hJHsWE4UGe1Z-1" value="&lt;blockquote&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:DE;mso-fareast-language:&lt;br/&gt;DE;mso-bidi-language:AR-SA&quot;&gt;Literatur- und Fallstudienanalyse&lt;/span&gt;&lt;/font&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="440" y="400" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_pLobRL5hJHsWE4UGe1Z-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;" edge="1" parent="1" source="_pLobRL5hJHsWE4UGe1Z-2" target="_pLobRL5hJHsWE4UGe1Z-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_pLobRL5hJHsWE4UGe1Z-2" value="&lt;blockquote&gt;&lt;font face=&quot;Georgia&quot;&gt;Entwicklung des Kontzeps&lt;/font&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_pLobRL5hJHsWE4UGe1Z-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;" edge="1" parent="1" source="_pLobRL5hJHsWE4UGe1Z-3" target="_pLobRL5hJHsWE4UGe1Z-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_pLobRL5hJHsWE4UGe1Z-3" value="&lt;blockquote&gt;&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:DE;mso-fareast-language:&lt;br/&gt;DE;mso-bidi-language:AR-SA&quot;&gt;Anforderungsanalyse&lt;/span&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_pLobRL5hJHsWE4UGe1Z-4" value="&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:DE;mso-fareast-language:&lt;br/&gt;DE;mso-bidi-language:AR-SA&quot;&gt;Vergleich mit bestehenden RFID-Systemen&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="640" y="520" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_pLobRL5hJHsWE4UGe1Z-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;" edge="1" parent="1" source="_pLobRL5hJHsWE4UGe1Z-5" target="_pLobRL5hJHsWE4UGe1Z-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_pLobRL5hJHsWE4UGe1Z-5" value="&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:DE;mso-fareast-language:&lt;br/&gt;DE;mso-bidi-language:AR-SA&quot;&gt;Prototyping &amp;amp; Konzeptvalidierung&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="440" y="520" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_pLobRL5hJHsWE4UGe1Z-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;" edge="1" parent="1" source="_pLobRL5hJHsWE4UGe1Z-6" target="_pLobRL5hJHsWE4UGe1Z-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_pLobRL5hJHsWE4UGe1Z-6" value="&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:DE;mso-fareast-language:&lt;br/&gt;DE;mso-bidi-language:AR-SA&quot;&gt;Beobachtung &amp;amp; Testszenarien&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="240" y="520" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_pLobRL5hJHsWE4UGe1Z-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;" edge="1" parent="1" source="_pLobRL5hJHsWE4UGe1Z-7" target="_pLobRL5hJHsWE4UGe1Z-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_pLobRL5hJHsWE4UGe1Z-7" value="&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:DE;mso-fareast-language:&lt;br/&gt;DE;mso-bidi-language:AR-SA&quot;&gt;Kundeninterviews&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_pLobRL5hJHsWE4UGe1Z-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;" edge="1" parent="1" source="_pLobRL5hJHsWE4UGe1Z-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="431" />
+              <mxPoint x="840" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_pLobRL5hJHsWE4UGe1Z-8" value="&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:DE;mso-fareast-language:&lt;br/&gt;DE;mso-bidi-language:AR-SA&quot;&gt;Experteninterviews&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="640" y="400" width="160" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
